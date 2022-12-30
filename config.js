@@ -1,16 +1,16 @@
 //=============『 Utama 』================== //
-global.owner = ['6285738639969','6287789210430','6287892711054'] 
+global.owner = ['6285738639969','6289637215497'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Chonix'
-global.numberowner = '84585961987'
-global.instagram = 'https://instagram.com/ktgakuma?igshid=YmMyMTA2M2Y='
-global.github = 'https://github.com/cheinope'
+global.numberowner = '6289637215497'
+global.instagram = 'https://instagram.com/ketutaguss_'
+global.github = 'https://github.com/VamsesOfficial'
 global.dana = '085738639969'
 global.pulsa = '085738639969'
-global.gopay = '-'
+global.gopay = '085738639969'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝐂𝐡𝐨𝐧𝐢𝐱-𝐁𝐎𝐓'
